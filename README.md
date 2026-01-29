@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Al-Mowalled
+# 👋 Hello, I'm Mohammed Al-Mowalled
 
 I'm a **goal-oriented and highly determined wind engineering researcher**, passionate about providing practical solutions to real-world challenges through cutting-edge structural and wind energy research. I am currently pursuing a **Ph.D. in Climate Modeling and Wind Energy** at **Shanghai Jiao Tong University**. 
 ---
